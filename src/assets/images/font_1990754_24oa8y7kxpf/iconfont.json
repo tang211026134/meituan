@@ -1,0 +1,114 @@
+{
+  "id": "1990754",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10010668",
+      "name": "大于号",
+      "font_class": "dayuhao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16706176",
+      "name": "大于号",
+      "font_class": "dayuhao1-copy",
+      "unicode": "e84c",
+      "unicode_decimal": 59468
+    },
+    {
+      "icon_id": "139533",
+      "name": "省略号2",
+      "font_class": "41",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1131111",
+      "name": "丽人",
+      "font_class": "liren",
+      "unicode": "e84b",
+      "unicode_decimal": 59467
+    },
+    {
+      "icon_id": "1706737",
+      "name": "周边游",
+      "font_class": "zhoubianyou",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "2738914",
+      "name": "薯条",
+      "font_class": "iconcopy",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "3626362",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "3692857",
+      "name": "KTV",
+      "font_class": "KTV",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "5338612",
+      "name": "休闲娱乐",
+      "font_class": "xiuxianyule",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8746094",
+      "name": "猫眼电影",
+      "font_class": "maoyandianying",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "9743728",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "10577818",
+      "name": "美食 (4)",
+      "font_class": "meishi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8776873",
+      "name": "setting",
+      "font_class": "icon-test1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8776879",
+      "name": "play",
+      "font_class": "icon-test2",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    }
+  ]
+}
